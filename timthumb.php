@@ -140,7 +140,7 @@ if(! isset($ALLOWED_SITES)){
 // -------------- STOP EDITING CONFIGURATION HERE --------------
 // -------------------------------------------------------------
 
-timthumb::start();
+// timthumb::start();
 
 class timthumb {
 	protected $src = "";
