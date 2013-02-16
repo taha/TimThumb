@@ -1,0 +1,12 @@
+{
+    "name": "taha/timthumb",
+    "description": "TimThumb – PHP Image Resizer",
+    "authors": [{
+        "name": "Taha Hesham",
+        "email": "taha@wizylabs.com"
+    }],
+    "require": {},
+    "autoload": {
+        "classmap": ["./"]
+    }
+}
