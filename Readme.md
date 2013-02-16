@@ -1,1 +1,0 @@
-TimThumb (http://www.binarymoon.co.uk/projects/timthumb/)
